@@ -1,0 +1,19 @@
+
+[{shop_url}] 
+
+Chào {firstname} {lastname},
+
+Cảm ơn bạn đã đặt hàng với mã đơn hàng {order_name} trên
+{shop_name}. 
+
+Sản phẩm hiện chưa có hoặc đang về hàng. Bạn vui lòng chờ vài ngày. Ngay khi có hàng bạn sẽ được chúng tôi liên lạc ngay lập tức.
+
+Bạn có thể xem lại đơn hàng và tải về hoá đơn của bạn tại :
+"Lịch sử đơn hàng" [{history_url}] trong "Thông tin tài khoản"
+[{my_account_url}] trên trang chủ. 
+
+Nếu bạn chỉ có tài khoản khách, bạn có thể vào mục
+"Guest Tracking" [{guest_tracking_url}] trên trang chủ.
+
+Powered by {shop_name} [{shop_url}] [http://www.facebook.com/phhoanghiep] 
+

@@ -1,0 +1,28 @@
+
+[{shop_url}] 
+
+Chào {firstname} {lastname},
+
+Cảm ơn bạn đã đặt hàng từ {shop_name}! 
+
+Bạn đã đặt {order_name} thành công.
+Chúng tôi sẽ sớm gửi hàng ngay khi nhận được tiền từ bạn. 
+
+Bạn có thể chọn phương thức thanh toán. 
+
+Thông tin ngân hàng của chúng tôi: 123456789 Trang Sức Việt
+
+Số lượng: {total_paid}
+
+Thanh toán cho đơn hàng: {cheque_name}
+
+Gửi mail lại cho chúng tôi: {cheque_address} 		 
+
+Bạn có thể xem lại đơn hàng và download dưới dạng PDF tại
+"Lịch sử đặt hàng" [{history_url}] nằm trong "Tài khoản" khi bạn đã đăng nhập [{my_account_url}]
+
+Nếu tài khoản của bạn thuộc dạng KHÁCH, bạn có thể thanh toán bằng
+"Guest Tracking" [{guest_tracking_url}] trên trang chủ.
+
+Powered by {shop_name} [{shop_url}] [http://www.facebook.com/phhoanghiep] 
+

@@ -1,0 +1,68 @@
+
+[{shop_url}] 
+
+Chào {firstname} {lastname},
+
+Cảm ơn bạn đã mua hàng tại {shop_name}! 
+
+Đơn hàng: {order_name} đặt vào ngày {date}
+
+PAYMENT: {payment} 		 
+
+MẪU
+
+SẢN PHẨM
+
+ĐƠN GIÁ
+
+SỐ LƯỢNG
+
+TỔNG GIÁ
+
+{products_txt} 
+
+{discounts} 
+
+SẢN PHẨM 
+
+{total_products} 
+
+GIẢM GIÁ 
+
+{total_discounts} 
+
+GIFT-WRAPPING 
+
+{total_wrapping} 
+
+VẬN CHUYỂN 
+
+{total_shipping} 
+
+TOTAL TAX PAID 
+
+{total_tax_paid} 
+
+TOTAL PAID 
+
+{total_paid} 
+
+CÔNG TY VẬN CHUYỂN {carrier}
+
+PAYMENT: {payment} 		 
+
+{delivery_block_txt} 
+
+{invoice_block_txt} 
+
+Bạn có thể xem lại đơn hàng và tải về hoá đơn của bạn tại :
+"Lịch sử đơn hàng" [{history_url}] trong "Thông tin tài khoản"
+[{my_account_url}] trên trang chủ. 
+
+Nếu bạn chỉ có tài khoản khách, bạn có thể vào mục
+"Guest Tracking" [{guest_tracking_url}] trên trang chủ.
+
+Powered by {shop_name} [{shop_url}] [http://www.facebook.com/phhoanghiep] 
+
+
+

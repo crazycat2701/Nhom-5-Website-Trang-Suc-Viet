@@ -1,0 +1,15 @@
+
+[{shop_url}] 
+
+Tin nhắn thông báo cho khách hàng từ {shop_name}
+
+ĐỊA CHỈ E-MAIL KHÁCH HÀNG: {email}
+
+TIN NHẮN: {message}
+
+MÃ: {order_name}
+
+FILE ĐÍNH KÈM: {attached_file} 		 
+
+Powered by {shop_name} [{shop_url}] [http://www.facebook.com/phhoanghiep] 
+

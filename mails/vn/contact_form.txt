@@ -1,0 +1,18 @@
+
+[{shop_url}] 
+
+Bạn đã gửi tin nhắn đến Dịch Vụ Khác Hàng của {shop_name}
+
+Tin nhắn của bạn đã được gửi thành công.
+
+Tin nhắn: {message}
+
+ID: {order_name}
+
+Sản phẩm: {product_name}
+
+File đính kèm: {attached_file} 		 
+
+Chúng tôi sẽ hồi âm cho bạn sớm nhất có thể.
+
+Powered by {shop_name} [{shop_url}] [http://www.facebook.com/phhoanghiep] 

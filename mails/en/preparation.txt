@@ -1,0 +1,16 @@
+
+[{shop_url}] 
+
+Chào {firstname} {lastname}, 
+
+Chúng tôi đang tiến hành chuyển {shop_name} đơn hàng của bạn {order_name}. 
+
+Bạn có thể xem lại đơn hàng và tải về hoá đơn của bạn tại :
+"Lịch sử đơn hàng" [{history_url}] trong "Thông tin tài khoản"
+[{my_account_url}] trên trang chủ. 
+
+Nếu bạn chỉ có tài khoản khách, bạn có thể vào mục
+"Guest Tracking" [{guest_tracking_url}] trên trang chủ.
+
+Powered by {shop_name} [{shop_url}] [http://www.facebook.com/phhoanghiep] 
+

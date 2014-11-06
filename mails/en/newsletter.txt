@@ -1,0 +1,9 @@
+
+[{shop_url}] 
+
+Chào {firstname} {lastname}, 
+
+{message} 
+
+Powered by {shop_name} [{shop_url}] [http://www.facebook.com/phhoanghiep] 
+

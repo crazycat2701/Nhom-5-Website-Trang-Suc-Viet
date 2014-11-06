@@ -1,0 +1,6 @@
+﻿Xin chào {firstname} {lastname},
+
+Làm ơn nhấn vào đường dẫn bên dưới để kích hoạt tài khoản}:
+{shop_url}modules/activationbymail/activation.php?link={link}
+
+{shop_name}
